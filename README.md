@@ -1,3 +1,1 @@
-# AI-Mastermind-Program
-
-## AI Literacy Program for Grade 5 to Grade 12
+# AI Mastermind Program : Grade 5 to Grade 8
