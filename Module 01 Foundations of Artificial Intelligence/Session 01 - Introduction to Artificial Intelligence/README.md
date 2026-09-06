@@ -124,9 +124,13 @@ The session includes discussion, reflection, a practical AI activity, and a home
 This session establishes the foundation for the concepts introduced in the next part of the module.
 
 **Session 01:** Introduction to AI
+
 ↓
+
 **Session 02:** Data → Algorithm → Training → Model → Prediction
+
 ↓
+
 **Session 03:** Machine Learning
 
 ---
