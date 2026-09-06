@@ -461,6 +461,7 @@ AI-Mastermind-Grade-5-to-8/
     ├── Session-23-Research-and-Build/
     ├── Session-24-Analyze-and-Synthesize/
     └── Session-25-Deliver-and-Reflect/
+```
 
 ---
 
@@ -471,4 +472,3 @@ The program concludes with a completed research-based capstone.
 By the end of the 25 sessions, learners have progressed from understanding foundational AI concepts to exploring Machine Learning, Generative AI, prompting, AI modalities, real-world applications, responsible AI, and independent AI research.
 
 The final capstone brings these areas together through research, experimentation, analysis, presentation, and reflection.
-```
