@@ -1,4 +1,4 @@
-# Session 01 — Introduction to AI
+# Session 01 - Introduction to AI
 
 > **Track A (Grades 5-8)** | **Module 1** | **Session 1 of 25**
 
@@ -29,10 +29,10 @@ The session is designed to help learners:
 
 |              |                                        |
 | :----------- | :------------------------------------- |
-| **Module**   | 01 — Foundations of AI                 |
+| **Module**   | 01 - Foundations of AI                 |
 | **Session**  | 01 of 25                               |
 | **Previous** | Program starting point                 |
-| **Next**     | Session 02 — AI Concepts & Terminology |
+| **Next**     | Session 02 - AI Concepts & Terminology |
 
 ---
 
