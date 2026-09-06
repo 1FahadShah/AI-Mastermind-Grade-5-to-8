@@ -1,4 +1,4 @@
-# Session 02 — AI Concepts & Terminology
+# Session 02 - AI Concepts & Terminology
 
 > **Track A (Grades 5-8)** | **Module 1** | **Session 2 of 25**
 
@@ -35,10 +35,10 @@ The session is designed to help learners:
 
 |              |                                        |
 | :----------- | :------------------------------------- |
-| **Module**   | 01 — Foundations of AI                 |
+| **Module**   | 01 - Foundations of AI                 |
 | **Session**  | 02 of 25                               |
-| **Previous** | Session 01 — Introduction to AI        |
-| **Next**     | Session 03 — What is Machine Learning? |
+| **Previous** | Session 01 - Introduction to AI        |
+| **Next**     | Session 03 - What is Machine Learning? |
 
 ---
 
@@ -64,11 +64,11 @@ relation to one another.
 
 The core terms are introduced individually:
 
-- **Data** — the information AI learns from
-- **Algorithm** — the step-by-step instructions AI follows
-- **Training** — the process of learning from data
-- **Model** — the trained AI ready to use
-- **Prediction** — the AI's best guess about something new
+- **Data** - the information AI learns from
+- **Algorithm** - the step-by-step instructions AI follows
+- **Training** - the process of learning from data
+- **Model** - the trained AI ready to use
+- **Prediction** - the AI's best guess about something new
 
 ### Apply
 
